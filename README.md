@@ -1,0 +1,3 @@
+# External Service Backuper
+
+SynologyのDockerで、使用中の外部サービスのバックアップを行うためのDockerfile

@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  backuper:
+    build: .
+    command: sleep infinity
